@@ -1,0 +1,35 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	background: grey;	
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1,h2,h3,h4,h5,h6{margin: 0px;}
+
+.card{
+	width: 250px;
+	background: #fff;
+}
+
+.card header {
+	background: #f73c3b;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+.card .content ul{
+	list-style-type: none;
+}
+
+.btn {
+	background: #f73c3b;
+}

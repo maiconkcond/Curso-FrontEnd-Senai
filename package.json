@@ -1,0 +1,19 @@
+{
+  "name": "cursofrontendsenai",
+  "version": "1.0.0",
+  "description": "Ferramenta para atualizar página automáticamente\r https://www.browsersync.io/\r https://www.browsersync.io/#install",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiconkcond/cursofrontendsenai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiconkcond/cursofrontendsenai/issues"
+  },
+  "homepage": "https://github.com/maiconkcond/cursofrontendsenai#readme"
+}

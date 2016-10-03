@@ -1,11 +1,11 @@
 #Workshop FrontEnd - SENAI
 
 ###Repositório 
-[Aula Quinta - Kenji](https://github.com/maiconkcond/cursofrontendsenai.git)
+[Aula Quinta - Kenji](https://github.com/kenjishiromajp/aulaquintahtml)
 
 
 ###Projeto 1
-⋅⋅⋅Objetivo: Criar uma página de componentes.
+Objetivo: Criar uma página de componentes.
 
 
 ###Ferramentas Interessantes

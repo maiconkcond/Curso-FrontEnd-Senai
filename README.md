@@ -1,14 +1,12 @@
-# Curso-FrontEnd-Senai
+#Workshop FrontEnd - SENAI
+
+###Repositório 
+[Aula Quinta - Kenji](https://github.com/maiconkcond/cursofrontendsenai.git)
 
 
-
-Ferramenta para atualizar página automáticamente
-https://www.browsersync.io/
-https://www.browsersync.io/#install
+###Projeto 1
+⋅⋅⋅Objetivo: Criar uma página de componentes.
 
 
-1- Tarefa, criar sitebar e header inserindo os princing table
-(Ver email com o video explicando)
-
-
-http://github.com/kenjishiromajp/aulaquintahtml
+###Ferramentas Interessantes
+* [BrowserSync](https://www.browsersync.io/#install) (Atualizar página automáticamente quando salvar código)
